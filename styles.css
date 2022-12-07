@@ -1,0 +1,11 @@
+body{
+    margin: 0%;
+    text-align: center;
+}
+.yellow{
+    position: relative;
+    display: inline-block;
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+}
