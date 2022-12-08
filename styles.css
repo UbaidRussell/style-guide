@@ -28,3 +28,9 @@ body{
     border-radius: 5px;
     margin: 10px 10px 10px 10px;
 }
+.Lato{
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    margin-left: 20px;
+    text-decoration: underline;
+}
