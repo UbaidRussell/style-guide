@@ -16,6 +16,13 @@ body{
     width: 200px;
     height: 200px;  
 }
+.Purple{
+    background-color: rgb(129, 12, 168);
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    height: 200px;  
+}
 .main-container{
     border: 5px solid black ;
     border-radius: 5px;
