@@ -28,9 +28,30 @@ body{
     border-radius: 5px;
     margin: 10px 10px 10px 10px;
 }
-.Lato{
+.div1{
+    display: inline-block;
     font-family: 'Lato', sans-serif;
     text-align: left;
     margin-left: 20px;
     text-decoration: underline;
+    float: left;
+}
+.div2{
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    margin-left: 20px;
+    text-decoration: underline;
+
+}
+.div3{
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    text-align: right;
+    margin-right: 20px;
+    text-decoration: underline;
+    float: right;
+}
+.font-division{
+    display: inline;
 }
