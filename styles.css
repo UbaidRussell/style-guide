@@ -30,7 +30,7 @@ body{
 }
 .div1{
     display: inline-block;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Pacifico', cursive;
     text-align: left;
     margin-left: 20px;
     text-decoration: underline;
@@ -38,7 +38,7 @@ body{
 }
 .div2{
     display: inline-block;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Rubik Mono One', sans-serif;
     text-align: left;
     margin-left: 20px;
     text-decoration: underline;
@@ -54,4 +54,10 @@ body{
 }
 .font-division{
     display: inline;
+}
+.div1-font-medium{
+    font-family: 'Pacifico', cursive; 
+}
+.div2-font-medium{
+    font-family: 'Rubik Mono One', sans-serif;
 }
