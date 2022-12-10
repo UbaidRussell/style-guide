@@ -1,7 +1,15 @@
+/*Overall website styles*/
 body{
     margin: 0%;
     text-align: center;
 }
+/*Everything inside of the sites border this is the main website container*/
+.main-container{
+    border: 5px solid black ;
+    border-radius: 5px;
+    margin: 10px 10px 10px 10px;
+}
+/*Color section*/
 .Beige{
     position: relative;
     display: inline-block;
@@ -23,12 +31,8 @@ body{
     width: 200px;
     height: 200px;  
 }
-.main-container{
-    border: 5px solid black ;
-    border-radius: 5px;
-    margin: 10px 10px 10px 10px;
-}
 
+/*Font section*/
 .font-division{
     display: inline;
     font-size: large;
@@ -58,7 +62,7 @@ body{
 }
 
 
-/*division 2 fonts*/
+/*Division 2 fonts*/
 .font-heading-2{
     font-family: 'Roboto Condensed', sans-serif;
     text-decoration: underline;
@@ -108,3 +112,5 @@ body{
 .div3-font-list{
     text-align: left;
 }
+
+/*Text styles section*/
