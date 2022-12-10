@@ -28,36 +28,83 @@ body{
     border-radius: 5px;
     margin: 10px 10px 10px 10px;
 }
+
+.font-division{
+    display: inline;
+    font-size: large;
+}
+/*Divsion 1 font*/
+.font-heading-1{
+    font-family: 'Lato', sans-serif;
+    text-decoration: underline;
+}
 .div1{
     display: inline-block;
-    font-family: 'Pacifico', cursive;
     text-align: left;
     margin-left: 20px;
-    text-decoration: underline;
     float: left;
+}
+.div1-font-light{
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+}
+.div1-font-medium{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+.div1-font-bold{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+
+/*division 2 fonts*/
+.font-heading-2{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-decoration: underline;
 }
 .div2{
     display: inline-block;
-    font-family: 'Rubik Mono One', sans-serif;
     text-align: left;
     margin-left: 20px;
-    text-decoration: underline;
+}
+.div2-font-light{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 100;
+}
 
+.div2-font-medium{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+}
+.div2-font-bold{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+}
+
+/*Divsion 3 fonts*/
+.font-heading-3{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: underline;
 }
 .div3{
     display: inline-block;
-    font-family: 'Lato', sans-serif;
     text-align: right;
-    margin-right: 20px;
-    text-decoration: underline;
+    margin-right: 40px;
     float: right;
 }
-.font-division{
-    display: inline;
+.div3-font-light{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
 }
-.div1-font-medium{
-    font-family: 'Pacifico', cursive; 
+.div3-font-medium{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
 }
-.div2-font-medium{
-    font-family: 'Rubik Mono One', sans-serif;
+.div3-font-bold{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+}
+.div3-font-list{
+    text-align: left;
 }
