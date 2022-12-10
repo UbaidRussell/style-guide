@@ -114,3 +114,9 @@ body{
 }
 
 /*Text styles section*/
+.text-styles-heading{
+    text-align: left ;
+}
+.text-styles-subHeading{
+    text-align:left
+}
