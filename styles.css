@@ -20,6 +20,8 @@ h1{
     background-color:rgb(229, 186, 115);
     width: 200px;
     height: 200px;
+    border-radius: 5px;
+    margin:5px;
 }
 .Teal{
     position: relative;
@@ -27,6 +29,8 @@ h1{
     background-color:rgb(98, 182, 183);
     width: 200px;
     height: 200px;  
+    border-radius:5px;
+    margin:5px;
 }
 .Purple{
     background-color: rgb(129, 12, 168);
@@ -34,6 +38,8 @@ h1{
     display: inline-block;
     width: 200px;
     height: 200px;  
+    border-radius: 5px;
+    margin:5px;
 }
 
 /*Font section*/
