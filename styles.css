@@ -3,6 +3,10 @@ body{
     margin: 0%;
     text-align: center;
 }
+h1{
+    color: rgb(98, 182, 183);
+    font-family: 'Lato', sans-serif;
+}
 /*Everything inside of the sites border this is the main website container*/
 .main-container{
     border: 5px solid black ;
@@ -115,10 +119,10 @@ body{
 
 /*Text styles section*/
 .text-styles-heading{
-    text-align: left ;
+    text-align: center ;
 }
 .text-styles-subHeading{
-    text-align:left
+    text-align:center;
 }
 .btn{
     font-family: 'Raleway', sans-serif;
