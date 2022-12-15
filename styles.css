@@ -12,6 +12,7 @@ h1{
     border: 5px solid black ;
     border-radius: 5px;
     margin: 10px 10px 10px 10px;
+    display: flex;
 }
 /*Color section*/
 .Beige{
@@ -104,8 +105,6 @@ h1{
 .div3{
     display: inline-block;
     text-align: right;
-    margin-right: 40px;
-    float: right;
 }
 .div3-font-light{
     font-family: 'Source Sans Pro', sans-serif;
