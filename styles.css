@@ -159,6 +159,7 @@ h1{
     display: flex;
     background-color: #510A32;
     flex-wrap: wrap;
+    padding: 20px;
 }
 .red{
     background-color: #EE4540;
@@ -194,7 +195,7 @@ h1{
     color: #801336;
 }
 .second-btn{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Phudu', cursive;
     color:whitesmoke;
     background-color: #510A32;
     display: inline-block;
@@ -202,11 +203,14 @@ h1{
     border: 2px solid #510A32;
     border-radius: 5px;
     box-shadow: 10px 5px 5px #510A32; 
+    text-decoration: none;
+    margin-top: 20px;
 }
 .second-btn:hover{
     border:2px solid  #EE4540;
     color:  #EE4540;
     box-shadow:10px 5px 5px #EE4540;
+    font-family: 'Phudu', cursive;
 }
 .second-btn:active{
     margin-top: 5px;
@@ -235,7 +239,4 @@ h1{
 }
 .second-font-heading-3{
     font-family: 'Phudu', cursive;
-}
-.second-text-styles{
-    margin-left: 40px;
 }
