@@ -219,3 +219,17 @@ h1{
     display: flex;
     flex-wrap: wrap;
 }
+.second-font-division{
+    display: flex;
+    gap: 30px;
+    font-size: large;
+}
+.second-font-heading-1{
+    font-family: 'Tilt Prism', cursive;
+}
+.second-font-heading-2{
+    font-family: 'Mynerve', cursive;
+}
+.second-font-heading-3{
+    font-family: 'Phudu', cursive;
+}
